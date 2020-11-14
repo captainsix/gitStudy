@@ -1,0 +1,6 @@
+sungjin.txt
+*.txt
+/node_module/
+dist/
+
+.metadata
